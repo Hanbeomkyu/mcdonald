@@ -1,0 +1,47 @@
+*{margin:0; padding:0}
+body{font-family:'돋움'; font-size: 14px;}
+img{border: 0}
+ul{list-style: none}
+
+a{display:inline-block; text-decoration:none}
+a:link, a:visited, a:hover , a:active{text-decoration:none; color: #222}
+
+#top{position: relative; width: 1000px; margin: 0 auto; height: 80px;}
+#top h3{position: absolute; top: 25px; left: 40px; font-family: 16px;}
+#top #top_menu{float: right;  margin: 30px 60px 0 0;}
+#top #top_menu li{display:inline;}
+#top #top_menu li a:hover{color: #555}
+#menu_bar{height: 48px; background: #443e58; color: #fff;}
+#menu_bar ul{width: 1000px; margin: 0 auto; padding: 14px 0 0 40px}
+#menu_bar ul li{display:inline; margin-left: 90px;}
+#menu_bar ul li a{color: #fff; font-weight: bold;}
+
+#main_img_bar{height: 230px; background: #2092aa; text-align: center}
+#main_img_bar img{margin-top: 30px;}
+#main_content{position: relative; width: 1000px; height: 240px; margin: 0 auto;}
+
+footer{height: 100px; background: #2c2a29; position: fixed; bottom: 0; width: 100%;}
+#footer_content{position: relative; width: 1000px; margin: 0 auto; color: #ddd}
+#footer_logo{position: absolute; top: 30px; left: 50px; font-size: 16px;}
+#footer_content #footer_logo span{color: yellow}
+#footer_content #download{position:absolute; top: 20px; left: 400px;}
+#footer_content #author{position:absolute; top: 20px; left: 700px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
